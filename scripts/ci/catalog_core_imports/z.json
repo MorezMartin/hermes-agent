@@ -7,9 +7,9 @@
   "zedmode": {"sha":"0e6ebbacb1696e49d28181c37ff382ca41b05ec1","imports":[["hermes_state","SessionDB","dashboard/zed_backend.py:48"]],"choices":[[[["hermes_constants","get_hermes_home","dashboard/zed_backend.py:29"]],[]],[[["hermes_cli.config","get_compatible_custom_providers","dashboard/zed_backend.py:512"],["hermes_cli.config","load_config","dashboard/zed_backend.py:512"],["hermes_cli.model_switch","switch_model","dashboard/zed_backend.py:513"]],[]]]},
   "zerofactory": {"sha":"f50356eb5098006b3e89f2a7a3d91fe7369237f0"},
   "zeromem": {"sha":"1c3bd5e8135271930c611a3449c82a17d4f3bf33","subdir":"hermes/zeromem","choices":[[[["agent.memory_provider","MemoryProvider","__init__.py:23"]],[]]]},
-  "zerosignal": {"sha":"ce1ba1f1603b4f191d3cd1aad284879df51a9f4a","imports":[["agent.reasoning_effort","EFFORT_LADDER","__init__.py:25"],["agent.reasoning_effort","OPENAI_COMPAT_WIRE_EFFORTS","__init__.py:25"],["agent.reasoning_effort","clamp_effort","__init__.py:25"],["agent.reasoning_effort","requested_effort","__init__.py:25"],["providers","register_provider","__init__.py:31"],["providers.base","ProviderProfile","__init__.py:32"],["providers.base","_profile_user_agent","__init__.py:32"],["hermes_cli.urllib_security","open_credentialed_url","__init__.py:99"]]},
+  "zerosignal": {"sha":"ed2ddacfa611943d239c152535334f6db1e39998","imports":[["agent.reasoning_effort","EFFORT_LADDER","__init__.py:55"],["agent.reasoning_effort","OPENAI_COMPAT_WIRE_EFFORTS","__init__.py:55"],["agent.reasoning_effort","clamp_effort","__init__.py:55"],["agent.reasoning_effort","requested_effort","__init__.py:55"],["providers","register_provider","__init__.py:61"],["providers.base","ProviderProfile","__init__.py:62"],["providers.base","_profile_user_agent","__init__.py:62"],["hermes_cli.urllib_security","open_credentialed_url","__init__.py:214"]]},
   "ziztu": {"sha":"02ae9c7d3dc11bb1e113eadd8c9965c5ba59f290"},
   "zolva": {"sha":"17516f666abcc422f0302bae7be3ca2d9f6d2139"},
   "zotero": {"sha":"ee8a7ad87bcda0f98250eba7e9b0385fd77b3a75"},
-  "zoth": {"sha":"4e7f2ecac6d7bf98b42fba4dd66d5cdb8be468cd","choices":[[[["hermes_constants","get_hermes_home","tools.py:356"]],[]]]}
+  "zoth": {"sha":"3531a9b5ff15e21ce6c6212c30ed0827914f22e6","choices":[[[["hermes_constants","get_hermes_home","tools.py:356"]],[]]]}
 }}
